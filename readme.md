@@ -11,3 +11,5 @@
 train_ticket_identification
 * ticket_identify.py：读入并分割图像并识别。
 * OCR.py：实现API的调用。
+* info.txt：保存输出的车票信息
+* pictures：存放分割后的图像
